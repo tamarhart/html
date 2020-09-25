@@ -1,0 +1,81 @@
+﻿body {
+}
+section {
+    width: 1003px;
+    height: 1200px;
+    margin: 0px auto;
+    background-color:crimson;
+}
+#logo {
+    width: 150px;
+    height: 130px;
+    float: right;
+    border-left:1px solid black;
+}
+#p {
+    direction:rtl;
+  
+   
+}
+header footer 
+{
+    position:relative;
+    margin: 10px;
+    height: 10px;
+}
+#h1 {
+    padding: 0px;
+    border-left: 1px solid red;
+}
+nav > a {
+   
+    float: right;
+    
+    margin: 0px 105px;
+}
+
+div{
+    clear:right;
+}
+a:hover
+{
+    background-color:darkgrey;
+}
+#art1 {
+    height: 300px;
+    background-color: burlywood;
+    display: block;
+    background-image: url('refrigrator.jpg');
+    background-repeat: no-repeat;
+    background-position: center center
+}
+#art2 {
+    background-image: url('shaarey_yosher.jpg');
+    background-repeat: no-repeat;
+    background-position: right center;
+    height: 500px;
+    background-color: rgba(255, 204, 102, 0.5);
+    position: relative
+}
+li {
+    list-style-type: square;
+}
+#img2 {
+    position:relative;
+    top:130px;
+}
+.food {
+    float: left;
+    margin: 25px 100px
+}
+
+#food {
+    height: 300px;
+    background-color: #f1be64;
+    margin: 0px 0px;
+}
+ul {
+    position: absolute;
+    top: 130px;
+    left: 43%
+}
